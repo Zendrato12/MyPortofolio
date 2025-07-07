@@ -17,7 +17,7 @@ const About = () => {
                 <div className="relative">
                   <div className="w-64 h-64 md:w-72 md:h-72 lg:w-80 lg:h-80 rounded-xl overflow-hidden shadow-xl border-6 border-white">
                     <img
-                      src="/image/profil1.png"
+                      src="https://drive.google.com/file/d/1SRzRlHQRRXQdENa5uoGMRFhyg_Zvvt1_/view?usp=sharing"
                       alt="Advent Clement Zendrato - Professional Photo"
                       className="w-full h-full object-cover"
                     />
